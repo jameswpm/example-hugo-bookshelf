@@ -1,0 +1,7 @@
+languageCode = "en-us"
+title = "James Book Reviews"
+baseurl = "https://jameswpm.github.io/bookshelf"
+
+[Params]
+  Author = "James Miranda"
+  disqusShortname = "jamesmiranda"
